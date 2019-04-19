@@ -188,7 +188,7 @@
             this.ClientSize = new System.Drawing.Size(636, 452);
             this.Controls.Add(this.mainTableLayoutPanel);
             this.Name = "MainForm";
-            this.Text = "RemoteViewing - Example VNC Client";
+            this.Text = "VNC Client";
             //this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.mainTableLayoutPanel.ResumeLayout(false);
             this.mainTableLayoutPanel.PerformLayout();

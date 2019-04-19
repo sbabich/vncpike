@@ -6,7 +6,7 @@
     <VersionPrefix>1.0.8</VersionPrefix>
     <Authors>James F. Bellinger, Frederik Carlier</Authors>
     <TargetFrameworks>net461</TargetFrameworks>
-    <AssemblyName>RemoteViewing.VncPikeServer</AssemblyName>
+    <AssemblyName>VncPikeServer</AssemblyName>
     <OutputType>Exe</OutputType>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
     <CodeAnalysisRuleSet>..\RemoteViewing.ruleset</CodeAnalysisRuleSet>
