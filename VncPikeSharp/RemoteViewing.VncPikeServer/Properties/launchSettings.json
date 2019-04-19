@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoteViewing.VncPikeServer": {
+      "commandName": "Project",
+      "commandLineArgs": "123123 \"Test server\" 127.0.0.1 5500 \"test\" \"test1\" 0 0 1920 1080"
+    }
+  }
+}

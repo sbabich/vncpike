@@ -1,0 +1,9 @@
+﻿{
+  "name": "vnc-pike-repeater",
+  "version": "0.0.0",
+  "description": "VncPikeRepeater",
+  "main": "app.js",
+  "author": {
+    "name": "Сергей"
+  }
+}
